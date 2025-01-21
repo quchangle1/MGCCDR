@@ -3,7 +3,7 @@ The implementation for SIGIR 2025 Submission: Bridging Short Videos and Streamer
 
 ## How to run the code
 To train MGCCDR on Doubanbook dataset with GPU 0, simply run:
-	> python train.py -g 0 -m MGCCDR -d Doubanbook
+ > python train.py -g 0 -m MGCCDR -d Doubanbook
 
 ## Environment
 
