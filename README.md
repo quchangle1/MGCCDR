@@ -1,5 +1,5 @@
 # MGCCDR
-The implementation for SIGIR 2025 Submission: Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation.
+The implementation for SIGIR 2025: Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation.
 
 ## How to run the code
 To train MGCCDR on Doubanbook dataset with GPU 0, simply run:
